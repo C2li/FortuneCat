@@ -1,0 +1,14 @@
+{
+
+  "profile": {
+    "bsn": "01234567",
+    "name": "typicode",
+    "Integerlijst": {
+      "Integer1": 10,
+      "Integer2": 20,
+      "Integer3": 30,
+      "Integer4": 40,
+      "Integer5": 50
+    }
+  }
+}
