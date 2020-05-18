@@ -1,7 +1,7 @@
 {
-
-  "profile": {
-    "id":{
+  "profiel": [
+    { "naam":"typicode"}
+    ],
      "bsn": "01234567",
         "Integerlijst": [
           { "Integer1":,"body": 10},
@@ -9,5 +9,5 @@
           {"Integer3":,"body": 30},
           {"Integer4":,"body": 40},
           {"Integer5":,"body":50}
-        ]}}
+        ]
 }
